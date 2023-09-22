@@ -35,6 +35,6 @@
 * private.h     --> contains registers defination
  
 ## Contributing  
-###We welcome contributions from the community. To contribute to [Project Name], please follow these steps:
+### We welcome contributions from the community. To contribute to [Project Name], please follow these steps:
 * Fork the repository.
 * Create a new branch for your feature or bug
