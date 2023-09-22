@@ -1,5 +1,5 @@
 # Embedded Systems project
-## An autonomous line tracking & Controlled Car using Mobile Application by stm32 Microcontroller based on ARM Cortex M3
+## An autonomous Line Tracking & Controlled Car using Mobile Application by stm32 Microcontroller based on ARM Cortex M3
 
 ### Description
 *   Car has two modes which are selected by user through mobile application
