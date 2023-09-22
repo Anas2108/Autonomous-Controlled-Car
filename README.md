@@ -2,9 +2,9 @@
 ## An autonomous Line Tracking & Controlled Car using Mobile Application by stm32 Microcontroller based on ARM Cortex M3
 
 ### Description
-*   Car has two modes which are selected by user through mobile application
-*  First mode  : Controlled car through mobile application to move either forward or backward or right or left
-*  Second mode : Autonomous car which follow a line track
+*   Car has two modes which are selected by user through Mobile Application
+*  First mode  : Controlled Car through mobile application to move either forward or backward or right or left
+*  Second mode : Autonomous Car which follow a Line Track
 
 
 ### Hardware 
